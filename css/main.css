@@ -1,3 +1,19 @@
 body{
     background-color:orangered;
 }
+
+section {
+    border: 1px solid gray;
+    height: 600px;
+}
+
+.enlace {
+    background: blue;
+    border-radius: 10px;
+    color: white;
+    padding: 8px
+}
+
+.seleccion {
+    background: navy;
+}
